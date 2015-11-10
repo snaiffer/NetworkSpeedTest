@@ -1,0 +1,45 @@
+ASUS WL-520GU VS ZyXEL Viva
+=================================================
+
+Info:
+  Lenovo Yoga: WiFI IEEE 802.11n
+  HP Pavilion: LAN 1000 Mb/s
+
+==================================================
+Router: ASUS WL-520GU
+  LAN:  100 Mb/s
+  WLAN: 54 Mb/s (802.11g)
+  WAN:  100 Mb/s
+
+Tests
+LAN (Pavilion) <---> WLAN (Yoga)
+  LAN (Pavilion) ---> WLAN (Yoga):  11 MB/s
+  LAN (Pavilion) <--- WLAN (Yoga):  2.9 MB/s
+LAN (Pavilion) <---> Internet (www.speedtest.net)
+  Download: 37
+  Upload:   35
+  Ping:     2
+WLAN (Yoga) <---> Internet (www.speedtest.net)
+  Download: 21
+  Upload:   26
+  Ping:     2
+
+==================================================
+Router: ZyXEL Viva
+  LAN:  1000 Mb/s
+  WLAN: 300 Mb/s (802.11n)
+  WAN:  100 Mb/s
+
+Tests
+LAN (Pavilion) <---> WLAN (Yoga)
+  LAN (Pavilion) ---> WLAN (Yoga):  10 MB/s
+  LAN (Pavilion) <--- WLAN (Yoga):  10 MB/s
+LAN (Pavilion) <---> Internet (www.speedtest.net)
+  Download: 71
+  Upload:   40
+  Ping:     1
+WLAN (Yoga) <---> Internet (www.speedtest.net)
+  Download: 70
+  Upload:   65
+  Ping:     1
+
